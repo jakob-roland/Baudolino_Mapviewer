@@ -19,6 +19,7 @@
 		"vite": "^8.0.16"
 	},
 	"dependencies": {
-		"@allmaps/maplibre": "1.0.0-beta.44"
+		"@allmaps/maplibre": "1.0.0-beta.44",
+		"maplibre-gl": "^6.11.2"
 	}
 }
